@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://vercel.com/guides/deploying-react-with-vercel#vercel-for-git"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Deploy via Vercel using Git
         </a>
       </header>
     </div>
